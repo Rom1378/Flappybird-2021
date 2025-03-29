@@ -1,0 +1,12 @@
+# Build artifacts
+bin/
+*.o
+*.exe
+
+# DLLs (we'll package them separately)
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+release/
